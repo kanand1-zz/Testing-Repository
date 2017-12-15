@@ -1,4 +1,5 @@
 Test 2 document
 
 This is added to check the git using command prompt
-Updated in the msater dataTestsTestsTests
+
+Updated in the msater data
